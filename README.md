@@ -3,6 +3,8 @@
 
 The Oceanic Recognition & Classification Application (ORCA) is a fine-tuned Region-based Convolutional Neural Network (RCNN) project designed to push the boundaries of automated sea-life detection and segmentation analysis. Our aim is to provide an advanced tool that meets the rigorous demands of marine research and conservation efforts globally. It uses selective search to identify a number of bounding-box object region candidates (“regions of interest”), and then extracts features from each region independently for classification.
 
+Download the model on [HuggingFace](https://huggingface.co/spaces/louisbrulenaudet/orca).
+
 This document is intended to guide users, collaborators, and researchers in the utilization and further development of ORCA, enabling the collective advancement of marine exploration and preservation endeavors.
 
 ![Plot](https://github.com/louisbrulenaudet/orca/blob/main/thumbnail.png?raw=true)
