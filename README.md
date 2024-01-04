@@ -5,7 +5,7 @@ The Oceanic Recognition & Classification Application (ORCA) is a fine-tuned Regi
 
 This document is intended to guide users, collaborators, and researchers in the utilization and further development of ORCA, enabling the collective advancement of marine exploration and preservation endeavors.
 
-![Plot](https://github.com/louisbrulenaudet/balena/blob/main/thumbnail.png?raw=true)
+![Plot](https://github.com/louisbrulenaudet/orca/blob/main/thumbnail.png?raw=true)
 
 ## Core dependencies
 
@@ -31,7 +31,7 @@ It is advisable to check the official websites of PyTorch and detectron2 for the
 If you use this code in your research, please use the following BibTeX entry.
 
 ```BibTeX
-@misc{louisbrulenaudet2023,
+@misc{louisbrulenaudet2024,
 	author = {Louis Brulé Naudet},
 	title = {ORCA: Oceanic Recognition & Classification Application for sea-life analysis systems},
 	howpublished = {\url{https://github.com/louisbrulenaudet/orca}},
